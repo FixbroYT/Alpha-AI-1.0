@@ -11,7 +11,7 @@ DateTime~=5.5
 vosk~=0.3.45
 psutil~=7.0.0
 pywinauto~=0.6.9
-pycaw~=20240210
+pycaw
 comtypes~=1.4.11
 beautifulsoup4~=4.13.4
 python-dotenv~=1.1.1
